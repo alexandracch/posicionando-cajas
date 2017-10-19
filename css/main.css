@@ -1,0 +1,57 @@
+/*Primera sección*/
+/* colocando la primera caja roja*/
+ .first-box {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  position:relative;
+  margin: 3mm;
+}
+
+/*colocando caja púrpura*/
+.purple-box {
+  background-color: purple;
+  width: 150px;
+  height: 150px;
+  position:absolute;
+  top: 70px;
+  left:70px;
+  }
+/*colocando caja amarilla*/
+.yellow-box {
+  background-color: yellow;
+  width: 70px;
+  height: 70px;
+  position:absolute;
+  top: 70px;
+  left:70px;
+}
+
+/*Segunda sección*/
+.second-box {
+ background-color: blue;
+ width: 300px;
+ height: 300px;
+ position:relative;
+ margin:3mm;
+
+}
+
+/*colocando caja púrpura*/
+.green-box {
+ background-color: green;
+ width: 150px;
+ height: 150px;
+ position:absolute;
+ top: 70px;
+ left:70px;
+ }
+/*colocando caja amarilla*/
+.black-box {
+ background-color: black;
+ width: 70px;
+ height: 70px;
+ position:absolute;
+ top: 0px;
+ left:0px;
+}
